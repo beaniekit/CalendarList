@@ -16,3 +16,4 @@ ToDos can be added into notes.
 # Future Plans (V2.0)
 Version 2.0 is intended to be the bulk of the front-end. Hopefully, with this second version, I can heavily improve the graphical user interface and allow for non-terminal interactions.
 The calendar will be heavily reworked to also accompany it's improved visuals.
+![Alt Text](matrix.pdf)
